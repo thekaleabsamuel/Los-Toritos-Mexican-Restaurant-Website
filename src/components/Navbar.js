@@ -14,12 +14,12 @@ import ShoppingCartRoundedIcon from "@mui/icons-material/ShoppingCartRounded";
 const Navbar = () => {
 
     const [openMenu, setOpenMenu] = React.useState(false);  
-    const menuOptions = [
+    const menuOptions = [ 
 
     ]
 
     return (
-        <div>Navbar</div>
+        <div>Navbar </div>
     )
 }
 
